@@ -32,6 +32,7 @@ dins i, sobretot, **crear-ne de noves**. Aquesta curiositat és la que em va por
 a estudiar informàtica.
 
 
+
 ```text
 🔭  Actualment    →  2n de SMX
 🌱  Aprenent      →  Python i fonaments de la programació
@@ -64,15 +65,15 @@ a estudiar informàtica.
 ## 🛠️ Competències i tecnologies
 
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,windows,linux,ubuntu,git,github,vscode,md,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,windows,linux,git,github,vscode,md,html,css&theme=dark" />
 </p>
 
 **El que sé fer:**
 
 - 🔧 Muntar i reparar ordinadors, identificar components i detectar avaries
 - 💻 Instal·lar i configurar sistemes operatius Windows i Linux
-- 🐧 Instal·lar i posar en marxa un servidor **Ubuntu Server**
 - 🌐 Configurar xarxes locals: cablejat, adreçament IP i equips de xarxa
 - 🖧 Configurar serveis de xarxa com el **DHCP**
 - 🐍 Programar a nivell bàsic amb Python
@@ -95,8 +96,8 @@ d'adreces i els paràmetres bàsics del servei.
 
 🔗 **[Veure repositori](https://github.com/jordievstegneev22/AA2-Avaluaci-Server-DHCP)**
 
-### 🐧 Guia d'instal·lació d'Ubuntu Server
 
+### 🐧 Guia d'instal·lació d'Ubuntu Server
 
 Documentació pas a pas del procés d'instal·lació i configuració d'un servidor
 Ubuntu Server. Amb aquesta pràctica vaig aprendre a instal·lar un sistema operatiu
@@ -112,6 +113,7 @@ perquè qualsevol persona el pugui seguir.
 > 📌 Aquest apartat l'aniré ampliant amb les pràctiques i projectes que vagi fent
 > durant el cicle.
 
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 ## 🎯 Interessos i objectius professionals
@@ -126,4 +128,32 @@ perquè qualsevol persona el pugui seguir.
 
 ```mermaid
 graph LR
-    A[SMX] --> B[CFGS
+    A[SMX] --> B[CFGS DAM]
+
+    B --> C[Universitat<br/>Ciberseguretat o IA]
+    C --> D[Màster]
+```
+
+- **A curt termini:** acabar el cicle de SMX i cursar el CFGS de Desenvolupament d'Aplicacions Multiplataforma (DAM)
+- **A mitjà termini:** accedir a la universitat per especialitzar-me en ciberseguretat o intel·ligència artificial
+- **A llarg termini:** completar la formació amb un màster i dedicar-me professionalment a crear coses amb la tecnologia
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+
+## 📫 Contacte
+
+<p align="center">
+  <a href="mailto:alu.jordi.evstegneev@mataro.epiaedu.cat">
+    <img src="https://img.shields.io/badge/alu.jordi.evstegneev@mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu"/>
+  </a>
+
+  <br/>
+  <a href="https://www.linkedin.com/in/jordi-evstegneev-05546b408/">
+    <img src="https://img.shields.io/badge/Jordi_Evstegneev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jordievstegneev22">
+    <img src="https://img.shields.io/badge/@jordievstegneev22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Gràcies%20per%20visitar%20el%20meu%20perfil!&fontSize=20&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
