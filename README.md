@@ -1,10 +1,26 @@
-# Hola! Sóc en Jordi Evstegneev 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola!+S%C3%B3c+en+Jordi+Evstegneev+%F0%9F%91%8B;Estudiant+de+2n+de+SMX;Apassionat+de+la+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
 
-**Estudiant de 2n de SMX (Sistemes Microinformàtics i Xarxes)**  
-Escola Pia Santa Anna de Mataró
+<p align="center">
+  <b>Sistemes Microinformàtics i Xarxes</b> · Escola Pia Santa Anna de Mataró
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-evstegneev-05546b408/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jordievstegneev22)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordi-evstegneev-05546b408/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jordievstegneev22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:alu.jordi.evstegneev@mataro.epiaedu.cat">
+    <img src="https://img.shields.io/badge/Correu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jordievstegneev22&label=Visites&color=2F81F7&style=flat" alt="Visites" />
+</p>
 
 ---
 
@@ -48,19 +64,22 @@ a estudiar informàtica.
 
 ## 🛠️ Competències i tecnologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
 
 **El que sé fer:**
 
 - 🔧 Muntar i reparar ordinadors, identificar components i detectar avaries
 - 💻 Instal·lar i configurar sistemes operatius Windows i Linux
 - 🌐 Configurar xarxes locals bàsiques: cablejat, adreçament IP i equips de xarxa
+- 🖧 Configurar serveis de xarxa com el DHCP
 - 🐍 Programar a nivell bàsic amb Python
 - 📂 Controlar versions amb Git i documentar amb Markdown
 
@@ -68,13 +87,16 @@ a estudiar informàtica.
 
 ## 💻 Projectes i pràctiques
 
-### 🔧 [NOM DE LA PRÀCTICA]
-[Què vas fer i què en vas aprendre]  
-**Tecnologies:** [LLISTA]
+### 🖧 Configuració d'un servidor DHCP
+Pràctica d'avaluació del cicle en què vaig configurar un servidor DHCP per assignar
+adreces IP automàticament als equips d'una xarxa local. Em va servir per entendre
+com funciona el repartiment d'adreces dins d'una xarxa i com configurar el rang
+d'adreces i els paràmetres bàsics del servei.  
+**Tecnologies:** Servidor DHCP, adreçament IP, xarxes locals  
+🔗 [Veure repositori](https://github.com/jordievstegneev22/AA2-Avaluaci-Server-DHCP)
 
-### 🌐 [NOM DE LA PRÀCTICA]
-[Què vas fer i què en vas aprendre]  
-**Tecnologies:** [LLISTA]
+> 📌 Aquest apartat l'aniré ampliant amb les pràctiques i projectes que vagi fent
+> durant el cicle.
 
 ---
 
@@ -99,9 +121,18 @@ a estudiar informàtica.
 
 ## 📫 Contacte
 
-- ✉️ Correu: [alu.jordi.evstegneev@mataro.epiaedu.cat](mailto:alu.jordi.evstegneev@mataro.epiaedu.cat)
-- 💼 LinkedIn: [Jordi Evstegneev](https://www.linkedin.com/in/jordi-evstegneev-05546b408/)
-- 🐙 GitHub: [@jordievstegneev22](https://github.com/jordievstegneev22)
+<p align="center">
+  <a href="mailto:alu.jordi.evstegneev@mataro.epiaedu.cat">
+    <img src="https://img.shields.io/badge/alu.jordi.evstegneev@mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu"/>
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/jordi-evstegneev-05546b408/">
+    <img src="https://img.shields.io/badge/Jordi_Evstegneev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/jordievstegneev22">
+    <img src="https://img.shields.io/badge/@jordievstegneev22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
