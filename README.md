@@ -97,15 +97,6 @@ d'adreces i els paràmetres bàsics del servei.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
-## 📊 Les meves estadístiques
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jordievstegneev22&show_icons=true&theme=tokyonight&hide_border=true&locale=ca" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordievstegneev22&layout=compact&theme=tokyonight&hide_border=true&locale=ca" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
-
 ## 🎯 Interessos i objectius professionals
 
 **Què m'interessa**
